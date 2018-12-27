@@ -7,16 +7,16 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "cors": "2.8.1",
-    "express": "4.13.3"
+    "cors": "^2.8.5",
+    "express": "^4.16.4"
   },
   "engines": {
     "node": "5.6.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/coryhouse/js-dev-env-demo-api"
+    "url": "https://github.com/jasquier/js-dev-env-demo-api"
   },
-  "author": "Cory House",
+  "author": "Cory House & John Squier",
   "license": "MIT"
 }
